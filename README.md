@@ -12,3 +12,8 @@ Hello, Myself Sudharsan Reddy. .
 I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and over all 6+ years experience in IT.
 <br><br>
 ### Do give a visit to my Portfolio 🔗 - https://sudharsanreddy-portfolio.netlify.app
+<p align="center">
+<img src="https://custom-icon-badges.herokuapp.com/github/followers/sudharsanreddy-g?logo=github&style=social">
+<img src="https://custom-icon-badges.herokuapp.com/github/stars/sudharsanreddy-g?logo=star&style=social&logoColor=black">
+<img src="https://komarev.com/ghpvc/?username=sudharsanreddy-g">
+</p>
