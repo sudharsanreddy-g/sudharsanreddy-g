@@ -18,8 +18,7 @@ I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and o
 <img src="https://komarev.com/ghpvc/?username=sudharsanreddy-g">
 </p>
 
-<h3 align="center">Tools:</h3>
-<h3 align="center">DevOps:</h3>
+<h3 align="center">Tools I used in DevOps:</h3>
 <p align="center" style="margin-top: 10px;">
 <a style="padding: 4px;" href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -48,7 +47,7 @@ I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and o
 <a style="padding: 4px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
-<!-- <a style="padding: 4px;" href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+ <a style="padding: 4px;" href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a>  -->
+</a> 
 </p>
