@@ -47,7 +47,7 @@ I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and o
 <a style="padding: 4px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
- <a style="padding: 4px;" href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
+<!-- <a style="padding: 4px;" href="https://www.nginx.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> 
-</a> 
+</a> -->
 </p>
