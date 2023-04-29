@@ -9,7 +9,7 @@
 ### A brief intro about me...
 Hello, Myself Sudharsan Reddy. .
 
-I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and over all 6+ years experience in IT.
+I am DevOps Engineer and having 2 years of experience as a DevOps Engineer and over all 7+ years experience in IT.
 <br><br>
 ### Do give a visit to my Portfolio 🔗 - https://sudharsanreddy-portfolio.netlify.app
 <p align="center">
